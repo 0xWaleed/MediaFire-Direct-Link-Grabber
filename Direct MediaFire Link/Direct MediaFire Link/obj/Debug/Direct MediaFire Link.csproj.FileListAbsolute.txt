@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\bin\Debug\Direct MediaFire Link.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\bin\Debug\Direct MediaFire Link.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\bin\Debug\Direct MediaFire Link.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\obj\Debug\Direct MediaFire Link.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\obj\Debug\Direct_MediaFire_Link.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\obj\Debug\Direct_MediaFire_Link.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\obj\Debug\Direct MediaFire Link.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\obj\Debug\Direct MediaFire Link.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Projects\Direct MediaFire Link\Direct MediaFire Link\obj\Debug\Direct MediaFire Link.pdb
