@@ -58,9 +58,41 @@ namespace Direct_MediaFire_Link
             catch { }
             return -1;
         }
+        
+        
+        class MediaFireDirectLink
+        {
+            string directLink;
+            string source;
+            public MediaFireDirectLink(string link)
+            {
+                source = new WebClient().DownloadString(link);
+                directLink = Regex.Match(source, @"http://download.*").Value.Replace("\"", "").Replace(";", "");
+            }
+
+            public string FileName
+            {
+                get
+                {
+                    return  directLink.Substring(directLink.LastIndexOf('/') + 1);
+                }
+            }
+            public string DirectLink
+            {
+                get
+                {
+                    return directLink;
+                }
+            }
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             textBox2.Text = Mediafire(textBox1.Text);
+            
+            //or 
+              var data = new MediaFireDirectLink(textBox1.Text);
+            textBox2.Text = data.DirectLink;
+            label1.Text = data.FileName;
         }
     }
 }
